@@ -1,0 +1,141 @@
+@media (min-width:2560px){
+    .costs .block {
+        width:200px;
+    }
+}
+
+@media (max-width:1492px){
+    .photo img{
+        width: 345px;
+        margin: auto;
+    }
+}
+
+@media (max-width:1390px){
+    .photo img{
+        width: 335px;
+        margin: auto;
+    }
+}
+@media (max-width:1360px){
+    .photo img{
+        width: 320px;
+        margin: auto;
+    }
+}
+@media (max-width:1293px){
+    .photo img{
+        width: 310px;
+        margin: auto;
+    }
+}
+@media (max-width:1253px){
+    .photo img{
+        width: 290px;
+        margin: auto;
+    }
+}
+@media (max-width:1153px){
+
+    .photo img{
+        width: 275px;
+        height: 225px;
+        margin: auto;
+    }
+}
+
+@media (max-width:1124px){
+    .costs .block{
+        max-width:750px;
+        height:340px;
+        width: 100%;
+    }
+    }
+    .land h5 {
+        position: absolute;
+        right: 50px;
+        top: 125px;
+        font-size: 12px;
+    }
+    .land #pop{
+        position: absolute;
+        right: 20px;
+        top: 50px
+      }
+    .photo img{
+        width: 320px;
+        /* height: 220px; */
+    }
+
+
+@media screen and  (max-width:992px){
+    
+    .translate{
+        font-size: 15px;
+    }
+    .costs .block{
+        top: 0;
+        position:relative;
+        margin: auto;
+        width: 720px;
+        height: 340px;
+        
+    }
+    .costs img  {
+		display: none;
+	}
+    .costs label{
+        display: none;
+    }
+    
+    .photo img{
+        width: 237px;
+        height:200px;
+    }
+   .about .info{
+        font-size: 14px;
+        
+    }
+}
+
+@media screen and (max-width:760px){
+    .costs .block{
+        position: absolute;
+        left: 60px
+    }
+}
+
+
+
+@media (max-width:480px)  {
+
+    .costs .block{
+        width: 300px;
+    }
+    .Louvre img{
+       position: absolute;
+       top:1229px
+    }
+    .tower img{
+        top: 1652px;
+        position: absolute;
+    }
+    .land img{
+        top: 2082px;
+        position: absolute;
+    }
+    .wallpaper{
+        height: 1350px;
+    }
+    .photo img {
+        width: 370px;
+    }
+   
+}
+
+
+@media (min-width:320px) and (max-width:480px) {
+    .about .info{
+        font-size: 8px;
+    }
+}
